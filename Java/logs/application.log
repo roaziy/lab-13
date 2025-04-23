@@ -1,0 +1,234 @@
+2025-04-23 10:35:55.091 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.099 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testNotEmpty
+2025-04-23 10:35:55.103 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.103 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnqueue
+2025-04-23 10:35:55.105 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.105 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testClear
+2025-04-23 10:35:55.107 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.107 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekNoEmptyQueue
+2025-04-23 10:35:55.108 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.108 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testWrappingQueue
+2025-04-23 10:35:55.108 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.108 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnsureCapacity
+2025-04-23 10:35:55.108 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.108 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekEmptyQueue
+2025-04-23 10:35:55.112 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.112 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testContent
+2025-04-23 10:35:55.125 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.126 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testDequeue
+2025-04-23 10:35:55.127 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:35:55.128 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testIsEmpty
+2025-04-23 10:43:21.394 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.394 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testNotEmpty
+2025-04-23 10:43:21.402 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.403 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnqueue
+2025-04-23 10:43:21.403 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.403 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testClear
+2025-04-23 10:43:21.403 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.403 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekNoEmptyQueue
+2025-04-23 10:43:21.405 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.405 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testWrappingQueue
+2025-04-23 10:43:21.405 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.405 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnsureCapacity
+2025-04-23 10:43:21.408 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.408 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekEmptyQueue
+2025-04-23 10:43:21.408 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.410 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testContent
+2025-04-23 10:43:21.412 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.416 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testDequeue
+2025-04-23 10:43:21.416 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:21.416 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testIsEmpty
+2025-04-23 10:43:36.799 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.800 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testNotEmpty
+2025-04-23 10:43:36.806 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.806 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnqueue
+2025-04-23 10:43:36.808 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.808 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testClear
+2025-04-23 10:43:36.808 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.808 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekNoEmptyQueue
+2025-04-23 10:43:36.810 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.810 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testWrappingQueue
+2025-04-23 10:43:36.810 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.810 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnsureCapacity
+2025-04-23 10:43:36.810 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.813 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekEmptyQueue
+2025-04-23 10:43:36.813 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.815 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testContent
+2025-04-23 10:43:36.818 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.818 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testDequeue
+2025-04-23 10:43:36.818 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:43:36.818 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testIsEmpty
+2025-04-23 10:54:15.277 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.284 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testNotEmpty
+2025-04-23 10:54:15.298 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.298 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 10
+2025-04-23 10:54:15.298 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 10, new size: 1, tail position: 0
+2025-04-23 10:54:15.300 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.300 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnqueue
+2025-04-23 10:54:15.301 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.301 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testClear
+2025-04-23 10:54:15.301 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 10
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 10, new size: 1, tail position: 0
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 20
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 20, new size: 2, tail position: 1
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 30
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 30, new size: 3, tail position: 2
+2025-04-23 10:54:15.303 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Clearing queue with 3 elements
+2025-04-23 10:54:15.305 [main] INFO  edu.cmu.cs.cs214.rec02.ArrayIntQueue - Queue cleared
+2025-04-23 10:54:15.305 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Attempted to peek at empty queue
+2025-04-23 10:54:15.305 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Attempted to dequeue from empty queue
+2025-04-23 10:54:15.305 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 40
+2025-04-23 10:54:15.305 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 40, new size: 1, tail position: 0
+2025-04-23 10:54:15.305 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Peek returned value: 40
+2025-04-23 10:54:15.307 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.307 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekNoEmptyQueue
+2025-04-23 10:54:15.309 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.309 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 42
+2025-04-23 10:54:15.309 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 42, new size: 1, tail position: 0
+2025-04-23 10:54:15.309 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 73
+2025-04-23 10:54:15.309 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 73, new size: 2, tail position: 1
+2025-04-23 10:54:15.309 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Peek returned value: 42
+2025-04-23 10:54:15.311 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Peek returned value: 42
+2025-04-23 10:54:15.311 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.311 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testWrappingQueue
+2025-04-23 10:54:15.311 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.311 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 0
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 0, new size: 1, tail position: 0
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 1
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 1, new size: 2, tail position: 1
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 2
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 2, new size: 3, tail position: 2
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 3
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 3, new size: 4, tail position: 3
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 4
+2025-04-23 10:54:15.313 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 4, new size: 5, tail position: 4
+2025-04-23 10:54:15.315 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 5
+2025-04-23 10:54:15.315 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 5, new size: 6, tail position: 5
+2025-04-23 10:54:15.316 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 6
+2025-04-23 10:54:15.316 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 6, new size: 7, tail position: 6
+2025-04-23 10:54:15.316 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 0, new size: 6, head position: 1
+2025-04-23 10:54:15.317 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 1, new size: 5, head position: 2
+2025-04-23 10:54:15.317 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 2, new size: 4, head position: 3
+2025-04-23 10:54:15.317 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 3, new size: 3, head position: 4
+2025-04-23 10:54:15.317 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 4, new size: 2, head position: 5
+2025-04-23 10:54:15.317 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 100
+2025-04-23 10:54:15.317 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 100, new size: 3, tail position: 7
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 101
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 101, new size: 4, tail position: 8
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 102
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 102, new size: 5, tail position: 9
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 103
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 103, new size: 6, tail position: 0
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 104
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 104, new size: 7, tail position: 1
+2025-04-23 10:54:15.319 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 105
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 105, new size: 8, tail position: 2
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 106
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 106, new size: 9, tail position: 3
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 107
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 107, new size: 10, tail position: 4
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 108
+2025-04-23 10:54:15.321 [main] INFO  edu.cmu.cs.cs214.rec02.ArrayIntQueue - Resizing queue from capacity 10 to 21
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Copied 10 elements to new array, head reset from 5 to 0
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 108, new size: 11, tail position: 10
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 109
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 109, new size: 12, tail position: 11
+2025-04-23 10:54:15.321 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 110
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 110, new size: 13, tail position: 12
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 111
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 111, new size: 14, tail position: 13
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 112
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 112, new size: 15, tail position: 14
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 113
+2025-04-23 10:54:15.325 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 113, new size: 16, tail position: 15
+2025-04-23 10:54:15.327 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 114
+2025-04-23 10:54:15.327 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 114, new size: 17, tail position: 16
+2025-04-23 10:54:15.327 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 5, new size: 16, head position: 1
+2025-04-23 10:54:15.327 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 6, new size: 15, head position: 2
+2025-04-23 10:54:15.327 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 100, new size: 14, head position: 3
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 101, new size: 13, head position: 4
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 102, new size: 12, head position: 5
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 103, new size: 11, head position: 6
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 104, new size: 10, head position: 7
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 105, new size: 9, head position: 8
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 106, new size: 8, head position: 9
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 107, new size: 7, head position: 10
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 108, new size: 6, head position: 11
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 109, new size: 5, head position: 12
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 110, new size: 4, head position: 13
+2025-04-23 10:54:15.329 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 111, new size: 3, head position: 14
+2025-04-23 10:54:15.332 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 112, new size: 2, head position: 15
+2025-04-23 10:54:15.332 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 113, new size: 1, head position: 16
+2025-04-23 10:54:15.332 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 114, new size: 0, head position: 17
+2025-04-23 10:54:15.332 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.333 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testEnsureCapacity
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 0
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 0, new size: 1, tail position: 0
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 1
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 1, new size: 2, tail position: 1
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 2
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 2, new size: 3, tail position: 2
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 3
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 3, new size: 4, tail position: 3
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 4
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 4, new size: 5, tail position: 4
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 5
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 5, new size: 6, tail position: 5
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 6
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 6, new size: 7, tail position: 6
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 7
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 7, new size: 8, tail position: 7
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 8
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 8, new size: 9, tail position: 8
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 9
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 9, new size: 10, tail position: 9
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 10
+2025-04-23 10:54:15.333 [main] INFO  edu.cmu.cs.cs214.rec02.ArrayIntQueue - Resizing queue from capacity 10 to 21
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Copied 10 elements to new array, head reset from 0 to 0
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 10, new size: 11, tail position: 10
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 11
+2025-04-23 10:54:15.333 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 11, new size: 12, tail position: 11
+2025-04-23 10:54:15.341 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 12
+2025-04-23 10:54:15.342 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 12, new size: 13, tail position: 12
+2025-04-23 10:54:15.342 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 13
+2025-04-23 10:54:15.342 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 13, new size: 14, tail position: 13
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 14
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 14, new size: 15, tail position: 14
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 0, new size: 14, head position: 1
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 1, new size: 13, head position: 2
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 2, new size: 12, head position: 3
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 3, new size: 11, head position: 4
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 4, new size: 10, head position: 5
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 5, new size: 9, head position: 6
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 6, new size: 8, head position: 7
+2025-04-23 10:54:15.344 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 7, new size: 7, head position: 8
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 8, new size: 6, head position: 9
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 9, new size: 5, head position: 10
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 10, new size: 4, head position: 11
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 11, new size: 3, head position: 12
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 12, new size: 2, head position: 13
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 13, new size: 1, head position: 14
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 14, new size: 0, head position: 15
+2025-04-23 10:54:15.347 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.347 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testPeekEmptyQueue
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.347 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Attempted to peek at empty queue
+2025-04-23 10:54:15.349 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.349 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testContent
+2025-04-23 10:54:15.349 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.349 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testDequeue
+2025-04-23 10:54:15.349 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Created new ArrayIntQueue with initial capacity 10
+2025-04-23 10:54:15.349 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 10
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 10, new size: 1, tail position: 0
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 20
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 20, new size: 2, tail position: 1
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueueing value: 30
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Enqueued value: 30, new size: 3, tail position: 2
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 10, new size: 2, head position: 1
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 20, new size: 1, head position: 2
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Dequeued value: 30, new size: 0, head position: 3
+2025-04-23 10:54:15.354 [main] DEBUG edu.cmu.cs.cs214.rec02.ArrayIntQueue - Attempted to dequeue from empty queue
+2025-04-23 10:54:15.358 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Setting up test with LinkedIntQueue
+2025-04-23 10:54:15.358 [main] INFO  edu.cmu.cs.cs214.rec02.IntQueueTest - Running testIsEmpty

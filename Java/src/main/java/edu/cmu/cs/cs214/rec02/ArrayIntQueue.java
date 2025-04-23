@@ -1,22 +1,22 @@
 package edu.cmu.cs.cs214.rec02;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 /**
  * A resizable-array implementation of the {@link IntQueue} interface. The head
- * of
- * the queue starts out at the head of the array, allowing the queue to grow and
+ * of the queue starts out at the head of the array, allowing the queue to grow
+ * and
  * shrink in constant time.
- *
- * TODO: This implementation contains three bugs! Use your tests to determine
- * the
- * source of the bugs and correct them!
  *
  * @author Alex Lockwood
  * @author Ye Lu
  */
 public class ArrayIntQueue implements IntQueue {
 
+    private static final Logger logger = LogManager.getLogger(ArrayIntQueue.class);
+
     /**
-     * test
      * An array holding this queue's data
      */
     private int[] elementData;
@@ -43,49 +43,62 @@ public class ArrayIntQueue implements IntQueue {
         elementData = new int[INITIAL_SIZE];
         head = 0;
         size = 0;
+        logger.debug("Created new ArrayIntQueue with initial capacity {}", INITIAL_SIZE);
     }
 
     /** {@inheritDoc} */
     public void clear() {
+        logger.debug("Clearing queue with {} elements", size);
         size = 0;
         head = 0;
+        logger.info("Queue cleared");
     }
 
     /** {@inheritDoc} */
     public Integer dequeue() {
         if (isEmpty()) {
+            logger.debug("Attempted to dequeue from empty queue");
             return null;
         }
         Integer value = elementData[head];
         head = (head + 1) % elementData.length;
         size--;
+        logger.debug("Dequeued value: {}, new size: {}, head position: {}", value, size, head);
         return value;
     }
 
     /** {@inheritDoc} */
     public boolean enqueue(Integer value) {
+        logger.debug("Enqueueing value: {}", value);
         ensureCapacity();
         int tail = (head + size) % elementData.length;
         elementData[tail] = value;
         size++;
+        logger.debug("Enqueued value: {}, new size: {}, tail position: {}", value, size, tail);
         return true;
     }
 
     /** {@inheritDoc} */
     public boolean isEmpty() {
-        return size == 0; // Bug #1: Previously returned size >= 0, which is always true
+        boolean empty = size == 0;
+        logger.trace("Queue isEmpty check returned: {}", empty);
+        return empty;
     }
 
     /** {@inheritDoc} */
     public Integer peek() {
-        if (isEmpty()) { // Bug #2: Need to check if queue is empty before peeking
+        if (isEmpty()) {
+            logger.debug("Attempted to peek at empty queue");
             return null;
         }
-        return elementData[head];
+        Integer value = elementData[head];
+        logger.debug("Peek returned value: {}", value);
+        return value;
     }
 
     /** {@inheritDoc} */
     public int size() {
+        logger.trace("Queue size: {}", size);
         return size;
     }
 
@@ -98,6 +111,8 @@ public class ArrayIntQueue implements IntQueue {
         if (size == elementData.length) {
             int oldCapacity = elementData.length;
             int newCapacity = 2 * oldCapacity + 1;
+            logger.info("Resizing queue from capacity {} to {}", oldCapacity, newCapacity);
+
             int[] newData = new int[newCapacity];
 
             // Copy all elements to the new array
@@ -110,6 +125,7 @@ public class ArrayIntQueue implements IntQueue {
                 j = (j + 1) % oldCapacity;
             }
 
+            logger.debug("Copied {} elements to new array, head reset from {} to 0", size, head);
             elementData = newData;
             head = 0;
         }
